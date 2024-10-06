@@ -6,6 +6,7 @@ Symbols rule your world. They always have.
 From the moment you wake up, your brain translates squiggles into meaning. 
 A "STOP" sign on your commute - six simple lines that could save your life. 
 A heart emoji from your crush - your pulse quickens.
+
 Symbols are everywhere, silently shaping your reality.
 
 Here's the kicker: your computer speaks a two-letter language; 0 and 1.
@@ -15,10 +16,13 @@ This digital dialect processes, stores, and transmits everything in your modern 
 
 Now, we're on the brink of a new symbolic revolution. 
 Machine learning transforms concepts like "happy" or "democracy" into a precise list of numbers. These values, known as vectors, are the numerical representation of the meaning we assing those word. 
+
 It is one of most profound inventions of our time.
+
 It's how chatGPT became smarter than a 5th grader.
 
 The tale of writing is the story of human progress itself. It's a reminder that the symbols we use don't just record our thoughts - they shape how we think.
+
 In this post, we'll journey through time and technology. 
 We'll uncover the flow of information and peek into a future where the line between human and machine blurs even further.
 
@@ -89,7 +93,7 @@ From cave paintings to the printing press, humanity has always looked for ways t
 
 ## The Printing Press goes digital
 
-"He who controls the [symbols] controls the universe." - Alia, Dune
+> "He who controls the [symbols] controls the universe." - Alia, Dune
 
 In 1450, Gutenberg's press slashed book prices by 300 times. Religions spread like wildfire, and rulers tightened their grip.
 
@@ -116,7 +120,9 @@ HTML, CSS, and JavaScript. They're not just tools; they're the very fabric of ou
 Together, they're the semantic layer of the internet.
 Master these, and you're not just coding - you're getting hands on the future of global communication.
 
-As Alan Kay said, "The best way to predict the future is to invent it." With HTML, CSS, and JavaScript, you have the power to do just that. For now...
+> As Alan Kay said, "The best way to predict the future is to invent it."
+
+With HTML, CSS, and JavaScript, you have the power to do just that. For now...
 
 ---
 
