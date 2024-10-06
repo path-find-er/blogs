@@ -15,11 +15,11 @@ Gottfried Leibniz, the creator of binary code, called it divine. He wasn't exagg
 This digital dialect processes, stores, and transmits everything in your modern life. From your morning alarm to your goodnight text.
 
 Now, we're on the brink of a new symbolic revolution. 
-Machine learning transforms concepts like "happy" or "democracy" into a precise list of numbers. These values, known as vectors, are the numerical representation of the meaning we assing those word. 
+Machine learning transforms concepts like "happy" or "democracy" into a precise list of numbers. These values, known as vectors, are the numerical representation of the meaning we assign those words. 
 
-It is one of most profound inventions of our time.
+It is one of the most profound inventions of our time.
 
-It's how chatGPT became smarter than a 5th grader.
+It's how ChatGPT became smarter than a 5th grader.
 
 The tale of writing is the story of human progress itself. It's a reminder that the symbols we use don't just record our thoughts - they shape how we think.
 
@@ -134,7 +134,7 @@ In this world, words play a game of multidimensional chess. "King" and "queen" a
 
 But here's where it gets mind-bending: "Paris" plus "Germany" minus "France" equals... "Berlin"! This isn't magic; it's vector embeddings at work. It's how your phone seems to read your mind, finishing your sentences. It's the secret sauce behind Google's ability to translate between 100 languages in the blink of an eye.
 
-Suddenly, abstract ideas become as tangible to machines as apples and oranges are to us. They're not just processing words; they're grasping concepts, relationships, even the nuances of human knowledge. They capture the meaning directy into math.
+Suddenly, abstract ideas become as tangible to machines as apples and oranges are to us. They're not just processing words; they're grasping concepts, relationships, even the nuances of human knowledge. They capture the meaning directly into math.
 
 As you read this, machines are becoming grandmasters of language, playing on a board so vast we can barely comprehend it. They are mastering our symbols, and if we're not careful, they might just master us.
 
@@ -142,13 +142,13 @@ As you read this, machines are becoming grandmasters of language, playing on a b
 
 ## The New Frontier: Machine Learning and You
 
-AI isn't science fiction. It's here, and it's on the war path to change everything.
+AI isn't science fiction. It's here, and it's on the warpath to change everything.
 
 From your Netflix recommendations to self-driving cars, machine learning is reshaping our world. It's creating jobs that didn't exist yesterday.
 
 Because just as the alphabet revolutionized ancient civilizations, these digital symbols—binary, HTML, vectors—are shaping our future.
 
-The world has always been ruled by those who master symbols. Yesterday, it was priests and state figurheads with their scribes and scholars. Today, it's governments and CEOs with their programmers and data scientists.
+The world has always been ruled by those who master symbols. Yesterday, it was priests and state figureheads with their scribes and scholars. Today, it's governments and CEOs with their programmers and data scientists.
 
 Tomorrow? It could be you. 
 
